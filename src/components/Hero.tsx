@@ -10,7 +10,7 @@ export function Hero() {
         className="w-32 h-32 bg-white rounded-full p-1 shadow-xl shadow-blue-200/50"
       >
         <img
-          src="/profile.png"
+          src="https://i.imgur.com/BsVLqfk.png"
           alt="Gabriel Palma"
           className="w-full h-full object-cover rounded-full"
         />
@@ -30,8 +30,7 @@ export function Hero() {
           transition={{ delay: 0.2 }}
           className="text-xl text-blue-600/80 font-medium leading-relaxed"
         >
-          Unindo a disciplina do basquete com a lógica da tecnologia. 
-          Explore meu percurso acadêmico e meus projetos no ensino técnico.
+          Explore minha jornada técnica e os marcos da minha evolução acadêmica.
         </motion.p>
       </div>
     </section>

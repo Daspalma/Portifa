@@ -15,7 +15,7 @@ export function About() {
         className="w-40 h-40 bg-white rounded-full p-1 shadow-xl shadow-blue-200/50 mx-auto md:mx-0"
       >
         <img
-          src="/tartaruga.png"
+          src="https://i.imgur.com/KSwU0gr.png"
           alt="Gabriel Palma"
           className="w-full h-full object-cover rounded-full"
         />
